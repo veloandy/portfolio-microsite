@@ -1,0 +1,36 @@
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    background: -webkit-linear-gradient(45deg, #09009f, #00ff95 80%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+  }
+
+  .impact-h2 {
+    font-size: 40px;
+    font-weight: 800;
+    background: -webkit-linear-gradient(45deg, #09009f, #00ff95 50%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+  }
+
+  .image-icon {
+    height: 100px;
+    width: 100px;
+  }
+
+  .rounded-button {
+    border-radius: 50px;
+  }
+
+  .profile-grid {
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid #466d98;
+    background-color: white;
+    border-radius: 5%;
+  }
